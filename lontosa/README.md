@@ -34,7 +34,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details. -->
 
 
-# Lontosa
+<!-- # Lontosa
 <p>Projeto realizado durante curso de React.js - Next.js, seu foco foi a criação de uma plataforma fictícia de cursos.</p>
 <img style="align-itens: center; " src="/public/images/layoutsite.svg" alt="Layout do Site">
 
@@ -50,3 +50,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
   <dd>Deploy da Aplicação</dd>
   <dd>Scss, Js, TypeScript</dd>
 </dl>
+ -->
