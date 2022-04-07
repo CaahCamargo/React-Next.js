@@ -10,23 +10,23 @@
   <dt>Platafora</dt>
   <dd>Udemy</dd>
 </dl>
-
-<img style="align-itens: center; " src="/assets/images/repositorio-ver.svg" alt="Layout do Repositório Index">
-<img style="align-itens: center; " src="/assets/images/repositorio.svg" alt="Layout do Repositório Perguntas">
+<hr>
 <dl>
   <dt>Repositório</dt>
   <dd>O Projeto Repositório - introdução ao React.js, tem como foco a criação de um site que recebe e salva os repositorios do GitHub e exibe suas Perguntas</dd>
 </dl>
+<img style="align-itens: center; " src="/assets/images/repositorio.svg" alt="Layout do Repositório Perguntas">
+<img style="align-itens: center; " src="/assets/images/repositorio-ver.svg" alt="Layout do Repositório Index">
 <hr>
-<img style="align-itens: center; " src="/assets/images/board-home.svg" alt="Layout do Board Home">
-<img style="align-itens: center; " src="/assets/images/meuboard.svg" alt="Layout do Board Tarefas ">
 <dl>
   <dt>Board</dt>
   <dd>O Projeto Board - introdução ao Next.js, seu foco é uma plataforma fictícia de tarefas, com integração a api de login do GitHub</dd>
- </dl>
+</dl>
+<img style="align-itens: center; " src="/assets/images/board-home.svg" alt="Layout do Board Home">
+<img style="align-itens: center; " src="/assets/images/meuboard.svg" alt="Layout do Board Tarefas ">
 <hr>
-<img style="align-itens: center; " src="/assets/images/layoutsitelontosa.svg" alt="Layout da Home Lontosa">
 <dl>
   <dt>Lontosa</dt>
   <dd>O Projeto Lontosa - projeto final do curso de Next.js, seu foco foi a criação de uma plataforma fictícia de cursos.</dd>
 <dl>
+<img style="align-itens: center; " src="/assets/images/layoutsitelontosa.svg" alt="Layout da Home Lontosa">
