@@ -13,8 +13,8 @@
   <dt>Repositório</dt>
   <dd>O Projeto Repositório - introdução ao React.js, tem como foco a criação de um site que recebe e salva os repositorios do GitHub e exibe suas Perguntas</dd>
 </dl>
-<img style="align-itens: center; " src="/assets/images/repositorio.svg" alt="Layout do Repositório Perguntas">
-<img style="align-itens: center; " src="/assets/images/repositorio-ver.svg" alt="Layout do Repositório Index">
+<img style="align-itens: center; width: 885px;" src="/assets/images/repositorio.svg" alt="Layout do Repositório Index">
+<img style="align-itens: center; " src="/assets/images/repositorio-ver.svg" alt="Layout do Repositório Perguntas">
 <hr>
 <dl>
   <dt>Board</dt>
