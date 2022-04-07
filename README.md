@@ -1,8 +1,6 @@
 # Sobre os Projetos
 <p>Os projetos desse repositorio, forão feitos durante estudos realiados para aprender a estrutura React.js e Next.js</p>
 
-<p>Projeto realizado durante curso de React.js - Next.js, seu foco foi a criação de uma plataforma fictícia de cursos.</p>
-
 <dl>
   <dt>Site criado no curso "NextJS do zero ao avançado na pratica 2021"</dt>
   <dt>Professor</dt>
